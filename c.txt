@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D411-0569
+
+ Directory of C:\Users\Legend\OneDrive\??????\one
+
+07/28/2024  10:22 PM    <DIR>          .
+07/28/2024  10:22 PM    <DIR>          ..
+07/28/2024  07:08 PM                14 a.txt
+07/28/2024  07:08 PM                 9 b.txt
+07/28/2024  10:22 PM                 0 c.txt
+               3 File(s)             23 bytes
+               2 Dir(s)  12,082,675,712 bytes free

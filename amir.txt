@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D411-0569
+
+ Directory of C:\Users\Legend\OneDrive\دسکتاپ\one
+
+07/31/2024  06:57 PM    <DIR>          .
+07/31/2024  06:57 PM    <DIR>          ..
+07/29/2024  07:15 PM                 4 .gitignore
+07/31/2024  06:57 PM                 0 amir.txt
+07/29/2024  12:06 AM                 9 b.txt
+07/29/2024  03:56 PM               447 c.txt
+07/29/2024  05:51 PM               451 hello.txt
+07/29/2024  07:13 PM               552 models.py
+               6 File(s)          1,463 bytes
+               2 Dir(s)   7,657,574,400 bytes free
